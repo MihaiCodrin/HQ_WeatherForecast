@@ -1,0 +1,34 @@
+{
+  "name": "weatherhq",
+  "version": "1.0.0",
+  "description": "WeatherHQ ============== Spring Boot web application with backend integration to OpenWeatherMap RESTful API",
+  "main": "index.js",
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/shaunmcglinchey/weatherHQ.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shaunmcglinchey/weatherHQ/issues"
+  },
+  "homepage": "https://github.com/shaunmcglinchey/weatherHQ",
+  "devDependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "angular-ui-router": "^1.0.0-beta.2",
+    "jasmine-core": "^2.5.2",
+    "karma": "^1.3.0",
+    "karma-chrome-launcher": "^2.0.0",
+    "karma-jasmine": "^1.0.2",
+    "karma-spec-reporter": "0.0.26"
+  },
+  "dependencies": {
+    "angular": "^1.5.8",
+    "angular-mocks": "^1.5.8",
+    "angular-ui-router": "^1.0.0-beta.2"
+  }
+}
