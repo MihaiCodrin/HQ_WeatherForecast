@@ -15,6 +15,7 @@ Technologies used
 * Node.js (npm)
 * Git
 * Bootstrap
+* TS
 
 Running instructions
 --------------------
