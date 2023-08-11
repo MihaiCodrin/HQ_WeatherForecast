@@ -1,19 +1,11 @@
-// Karma configuration
-// Generated on Mon Sep 19 2016 18:04:37 GMT-0300 (UYT)
-
 module.exports = function(config) {
   config.set({
 
     // base path that will be used to resolve all patterns (eg. files, exclude)
     basePath: '',
 
-
-    // frameworks to use
-    // available frameworks: https://npmjs.org/browse/keyword/karma-adapter
     frameworks: ['jasmine'],
 
-
-    // list of files / patterns to load in the browser
     files: [
       './node_modules/angular/angular.js',                             // angular
       './node_modules/angular-ui-router/release/angular-ui-router.js', // ui-router
