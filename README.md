@@ -4,7 +4,7 @@ Spring Boot web application with backend integration to OpenWeatherMap RESTful A
 
 Technologies used
 --------------
-* Java 8
+* Java 8/9
 * Spring Boot 1.4
 * Angular 1.5 (Angular components)
 * Maven
