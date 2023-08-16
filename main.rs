@@ -15,7 +15,6 @@ fn main(){
     let mut opts = Options::new();
     opts.optflag("h", "help", "Print this helptext");
     opts.optflag("", "feistel", "Start Feistel encryption");
-    opts.optflag("", "lfsr", "Start LFSR");
     opts.optflag("", "hash", "Create a hash");
     opts.optflag("", "gcd", "Calculate the greatest common divisor of two numbers");
 
