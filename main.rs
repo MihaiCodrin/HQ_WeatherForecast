@@ -29,6 +29,9 @@ fn main(){
     if matches.opt_present("feistel"){
         feistel::encrypt();
     }
+        if matches.opt_present("feiste2"){
+        feistel::encrypt();
+    }
     if matches.opt_present("lfsr"){
         lfsr::lfsr(15);
     }
